@@ -1,9 +1,16 @@
-## Introduction to Computer Systems at URI
+# Computer Systems and Programming Toosl 
+
+_University of Rhode Island_
 
 Professor Sarah Brown
 
-- [general course info](https://introcompsys.github.io/)
+- [general course info](https://compsys-progtools.github.io/)
+
+Past syallbi
 - [spring 2022](https://introcompsys.github.io/spring2022/index.html)
+- [fall 2022](https://introcompsys.github.io/fall2022/index.html)
+- [spring 2023](https://introcompsys.github.io/spring2023/index.html)
+- [fall 2023](https://introcompsys.github.io/fall2023/index.html)
 <!--
 
 **Here are some ideas to get you started:**
