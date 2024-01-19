@@ -4,6 +4,8 @@ _University of Rhode Island_
 
 Professor Sarah Brown
 
+**if you are enrolled in the course and you see this, you are either not logged in to GitHub or you have not joined the course organization.  See the join link on Brightspace to join**
+
 - [general course info](https://compsys-progtools.github.io/)
 
 Past syallbi
